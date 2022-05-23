@@ -1,0 +1,61 @@
+.edittask h1 {
+    text-align: center;
+    color: green;
+    margin-top: 150px;
+    font-style: bold;
+}
+
+.contents {
+    margin-left: 350px;
+}
+
+.form {
+    width: 700px;
+    height: 400px;
+    background-color: whitesmoke;
+    border: solid 1px gray;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.item {
+    margin-left: 130px;
+    margin-top: 20px;
+}
+
+.input {
+    width: 450px;
+    height: 30px;
+    /* margin-left: 100px; */
+    background-color: seashell;
+    border: none;
+}
+
+.input-1 {
+    width: 360px;
+    background-color: seashell;
+    height: 30px;
+    border: none;
+}
+
+.textarea {
+    width: 450px;
+    height: 50px;
+    background-color: seashell;
+    border: none;
+    font-size: 16px;
+}
+
+.radio {
+    margin-left: 100px;
+}
+
+.footer {
+    margin-left: 400px;
+}
+
+/* ::placeholder {
+    font-size: 16px;
+  } */
